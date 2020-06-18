@@ -1,0 +1,691 @@
+
+
+/* Для всех страниц стиль подвала*/
+
+/* Отражаем поверх окон*/
+.form-leaveRequest {
+
+    z-index: 200 !important;
+
+}
+
+
+
+
+		.header-top-control{
+			width: 100%;
+			margin-left: 0px;
+		}
+		
+		.header-top-control__item{	
+			display: inline-block;
+		}
+		
+		
+		
+		.header-top-control__item{
+		    display: inline-block;
+		
+		}
+
+
+
+
+
+@media (min-width: 1270px){
+
+
+
+.header-middle-control__item, .header-middle-control, .header-middle-control__item{
+    margin-left: auto !important;
+    margin-right: 0 !important;
+}
+
+
+
+.header-middle-control__item{
+
+margin-right: 20px !important;
+
+}
+
+
+
+
+
+		.header-top-control{
+			width: 100%;
+			margin-left: 0px;
+		}
+		
+		.header-top-control__item{	
+			display: inline-block;
+		}
+		
+		
+		
+		.header-top-control__item{
+		    display: inline-block;
+		
+		}
+
+
+
+
+
+
+
+
+
+	.header-middle__col.one{
+		width: 16.2%;
+	}
+	
+	.header-middle__col.two{
+		width: 23.5%;
+	}
+	
+	.header-middle__col.four{
+		width: 29.3%
+	}
+
+	
+	.header-middle__col.five{
+		width: 20%;
+	}	
+	
+	.header-middle-control__item{
+		margin-left: 12%;
+	}
+	
+	.header-middle-control{
+		margin-left: 0px;
+	}
+	
+	
+	
+	
+	
+	
+	.header-top__col.one{
+		width: 30.9%;
+	}
+	
+	.header-top__col.two{
+		width: 30.9%;	
+	}
+	
+	
+	.header-top-search{
+		width: 100%;
+	}
+	
+	
+	.header-top-search__form{
+	    width: 100%;
+	}
+	
+	
+	
+	.header-top-search__wrap{
+	    /*width: 100%;*/
+		width: 95%;
+		float: right;
+	}
+	
+	
+	
+@media (min-width: 1380px){
+		
+		.header-top-search__wrap{
+		width: 100%;
+	}
+		
+	}
+
+	
+	
+	
+	
+	
+	.header-top__col.mobile{
+		width: 5.3%;
+	}
+	
+	
+	.header-top__col.three{
+		/*width: 20.4%; */
+		width: 200px;
+	}
+	
+	
+	.header-top-aut{
+	}
+	
+	
+		.header-top-search {
+    width: 80%;
+}
+	
+
+}
+
+
+
+
+
+@media (min-width: 1400px){
+	
+	
+	.header-middle-control__item{
+
+margin-right: 0	 !important;
+
+}
+}
+
+@media (max-width: 1500px){
+	
+	
+	
+	.header-middle__col.five{
+		width: 14%;
+	}	
+	
+.header-top-search {
+    width: 100%;
+}
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+	@media (min-width: 1270px){
+		
+		/*Ширину рабочей области 1270 px*/
+		.index-margin-content {
+			max-width: 1270px !important;
+			margin: auto !important;
+		}
+		
+		/*Расстояние до и после заголовков*/
+		.page-index__title {
+			padding-top: 55px !important;
+			padding-bottom: 40px !important;
+			margin-top: 0px !important;
+			margin-bottom: 0px !important;
+		}
+		.page-index__text {
+			margin-bottom: 40px !important;
+		}
+		.pIndexitemsProduction {
+			margin-bottom: 0px !important;
+		}
+		
+		/* Работа с дизайном карточек оборудования */				
+		.pIndexitemsProduction__item{
+			    width: 24% !important;
+		}
+		.pIndexitemsProduction__img{
+			width: 100% !important;						
+		}
+		
+		.pIndexitemsProduction__wrap {
+			margin-bottom: 40px !important;		
+		}
+		
+		/* Поправка пространства перед заголовком */
+		.index-smo {
+			margin-bottom: 0px !important;	
+		}
+				
+				
+		
+		/* Стили формы ТОРГОВОГО ОБОРУДОВАНИЯ НА ЗАКАЗ*/
+		.form1cost{
+					height: 100px;
+					margin-bottom: 40px;
+		}
+		.partpav{
+			width: 50%;
+			height: 100px;
+			display: table-cell;
+			vertical-align: middle;
+			text-align:center;
+		}
+		.partrightv{
+			width: 49% !important;
+			background: #FBAD65;
+		}
+		.textleftpv{
+			width: 75%;
+			margin: auto;
+			text-align: left;
+			font-family: Open Sans;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 20px;
+			line-height: 27px;
+		
+		}
+		.textrighttpv{
+			width: 75%;
+			margin: auto;
+			text-align: center;
+			font-family: Open Sans;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 20px;
+			line-height: 27px;
+			color: #FFFFFF;
+		}
+		.btnrightpv{
+			width: 214px;
+			margin-top: 1rem !important;
+			padding: 0.212rem;
+			border: 2px solid #FFFFFF;
+			box-sizing: border-box;
+			margin: auto;
+			text-align: center;
+			font-family: Open Sans;
+			font-style: normal;
+			font-weight: normal;
+			font-size: 13px;
+			line-height: 27px;
+			color: #FFFFFF;
+		}
+		.pIndexitemsProduction__items{
+			width: 1250px;
+			margin: auto;
+		}
+		
+		
+		
+		/* Раздел Популярные товары: работа с размером и расположением */		
+		.index-top-product__item.one{
+			width: 30% !important;
+		}
+
+		.index-top-product__item.two, .index-top-product__item.three{
+			left: 30.7% !important;
+			width: 23% !important;
+		}
+
+		.index-top-product__item.four{
+			width: 18% !important;
+			left: 54.4% !important;
+		}
+		.index-top-product__item.five{
+			left: 73% !important;
+			width: 27% !important;
+		}
+		
+		.index-brand-slider__left {
+			left: 0px !important;
+		}
+
+		.index-brand-slider__right {
+			right: 0px !important;
+		}
+		.index-top-product__items{
+			width: 1250px !important;
+			margin: auto !important;
+		}
+		.index-top-product__item.one .index-top-product__img, .index-top-product__item.four .index-top-product__img, .index-top-product__item.five .index-top-product__img{
+			margin-top: 1px !important;
+
+		}
+		
+		
+		
+		
+		
+		/* Раздел Нам доверяют: работа со стрелками */
+		.index-brand-slider__left{
+			width: unset !important;
+			left: 10px !important;
+			padding: 0px;
+		}
+		
+		.index-brand-slider__right{
+			width: unset !important;
+			padding: 0px;
+			right: 10px !important;
+		}
+
+	
+		.index-brand__items .slick-list.draggable{
+			width: 1200px;
+			margin: auto;
+		}
+		
+		
+		/* Рздел форма всегда на связи: */
+		.index-form{
+			width: 1115px;
+			margin: auto;
+		}
+		
+		
+		
+		
+		/* Рздел ОБОРУДОВАНИЕ ДЛЯ ТОРГОВЛИ: */
+		.index-product__item{
+			margin-left: 0px !important; 
+		}
+
+		.index-product__items{
+			width: 1200px !important; 
+			margin: auto !important; 
+			margin-top: -47px !important; 
+			margin-bottom: 45px !important; 
+		}
+		
+		.index-project-photo {
+			width: 751px !important; 
+		}
+		
+		.index-project-photo__pic {
+			width: 100% !important;
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		.contentcartpv{
+			height: 435px;
+			overflow-y: auto;
+			
+		}
+		
+		
+		
+		.contentcartpv .basket_header-info{
+			
+		}
+		
+	
+		
+/* Стили для скрола */ 	
+
+	
+
+::-webkit-scrollbar-button {
+background-image:url('');
+background-repeat:no-repeat;
+width:5px;
+height:0px
+}
+
+ ::-webkit-scrollbar-track {
+background-color: #ecedee00;
+}
+
+::-webkit-scrollbar-thumb {
+		-webkit-border-radius: 0px;
+		border-radius: 9px;
+		background: linear-gradient(to right, #353535a1 0%, #353535a1 80%, #d7d5da08 80%, #d7d5da00 100%);
+	}
+	
+::-webkit-scrollbar-thumb:hover {
+		-webkit-border-radius: 0px;
+		border-radius: 9px;
+		background: linear-gradient(to right, #37058aa1 0%, #37058aa1 80%, #d7d5da08 80%, #d7d5da00 100%);
+	}	
+	
+	
+	
+
+::-webkit-scrollbar-thumb:hover{
+background-color:#c4c4c4;
+}
+
+::-webkit-resizer{
+background-image:url('');
+background-repeat:no-repeat;
+width:4px;
+height:0px
+}
+
+ ::-webkit-scrollbar{
+width: 11px;
+}
+
+
+
+
+/* Стили для скрола */ 	
+.basket_header ::-webkit-scrollbar-button {
+background-image:url('');
+background-repeat:no-repeat;
+width:5px;
+height:0px
+}
+
+.basket_header  ::-webkit-scrollbar-track {
+background-color: #ecedee00;
+}
+
+.basket_header  ::-webkit-scrollbar-thumb {
+-webkit-border-radius: 0px;
+border-radius: 9px;
+background-color: #9d9d9d;
+}
+
+.basket_header  ::-webkit-scrollbar-thumb:hover{
+background-color:#c4c4c4;
+}
+
+ .basket_header ::-webkit-resizer{
+background-image:url('');
+background-repeat:no-repeat;
+width:4px;
+height:0px
+}
+
+.basket_header  ::-webkit-scrollbar{
+width: 8px;
+}
+
+
+.statcartpv {
+    top: 110px !important;
+	}
+
+
+.fixcartpv {
+    top: 100px !important;
+}
+
+
+
+
+
+
+.basket_header{
+    top: 0px;
+	background: #ffffff00;
+	box-shadow: unset;
+	z-index:300;
+}
+
+
+.cartinnerpv{
+	margin-top: 110px;
+	background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,.4);
+    padding-bottom: 20px;
+	padding-right: 9px;
+}
+
+.basket_header__items{
+	    padding-right: 7px;
+
+}
+
+
+	
+	
+	
+	
+		.contentcartpv{
+			height: 435px;
+			overflow-y: auto;
+			
+		}
+		
+		
+		
+		.contentcartpv .basket_header-info{
+			
+		}
+		
+		
+		
+/* Стили для скрола */ 	
+
+
+/*
+::-webkit-scrollbar-button {
+background-image:url('');
+background-repeat:no-repeat;
+width:5px;
+height:0px
+}
+
+ ::-webkit-scrollbar-track {
+background-color: #ecedee00;
+}
+
+::-webkit-scrollbar-thumb {
+-webkit-border-radius: 0px;
+border-radius: 9px;
+background-color: #5c22bb;
+}
+
+::-webkit-scrollbar-thumb:hover{
+background-color:#c4c4c4;
+}
+
+::-webkit-resizer{
+background-image:url('');
+background-repeat:no-repeat;
+width:4px;
+height:0px
+}
+
+ ::-webkit-scrollbar{
+width: 8px;
+}
+*/
+
+
+
+/* Стили для скрола */ 	
+.basket_header ::-webkit-scrollbar-button {
+background-image:url('');
+background-repeat:no-repeat;
+width:5px;
+height:0px
+}
+
+.basket_header  ::-webkit-scrollbar-track {
+background-color: #ecedee00;
+}
+
+.basket_header  ::-webkit-scrollbar-thumb {
+-webkit-border-radius: 0px;
+border-radius: 9px;
+background-color: #9d9d9d;
+}
+
+.basket_header  ::-webkit-scrollbar-thumb:hover{
+background-color:#c4c4c4;
+}
+
+ .basket_header ::-webkit-resizer{
+background-image:url('');
+background-repeat:no-repeat;
+width:4px;
+height:0px
+}
+
+.basket_header  ::-webkit-scrollbar{
+width: 8px;
+}
+
+
+.statcartpv {
+    top: 110px !important;
+	}
+
+
+.fixcartpv {
+    top: 100px !important;
+}
+
+
+
+
+
+
+.basket_header{
+    top: 0px;
+	background: #ffffff00;
+	box-shadow: unset;
+	z-index:300;
+}
+
+
+.cartinnerpv{
+	margin-top: 110px;
+	background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,.4);
+    padding-bottom: 20px;
+	padding-right: 9px;
+}
+
+.basket_header__items{
+	    padding-right: 7px;
+
+}
+
+
+
+

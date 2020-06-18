@@ -1,0 +1,172 @@
+@media (max-width: 1270px) and (min-width: 700px) {
+  .tableplan {
+    width: 100%;
+    font-size: 0px;
+    vertical-align: middle;
+  }
+
+  .cellplan {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 5px;
+  }
+
+  .imgplan {
+    width: 20%;
+  }
+
+  .param1plan {
+    width: 37%;
+    vertical-align: top;
+  }
+  /*
+  .rowitemcust:nth-child(2n + 1) {
+    background: unset;
+  }
+*/
+  .param2plan {
+    width: 25%;
+    vertical-align: top;
+  }
+
+  .param2plan .namerowcust {
+    width: 80%;
+  }
+  .param2plan .valrowcust {
+    width: 44%;
+  }
+  .priceplan {
+    font-size: 15px;
+  }
+
+  .rowitemcust div {
+    font-size: 12px !important;
+  }
+
+  .namerowcust,
+  .valrowcust {
+    line-height: 30px;
+  }
+
+  .rowitemcust {
+    padding: 0px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+  .tableplan {
+    padding-bottom: 5px;
+  }
+
+  .priseandparam {
+    display: inline-block;
+    vertical-align: middle;
+    width: calc(80% - 35px);
+  }
+
+  .tablplanch {
+    display: table;
+  }
+  .param1plan,
+  .param2plan,
+  .priceplan {
+    display: table-cell;
+  }
+  .priceplan {
+    vertical-align: middle;
+  }
+
+  .tablplanch {
+    width: 100%;
+  }
+
+  .param1plan {
+    width: 48%;
+  }
+  .param2plan {
+    width: 33%;
+  }
+  .priceplan {
+    width: 17%;
+  }
+
+  .btnplanch {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .btnplanchinner {
+    width: 214px;
+    height: 37px;
+    line-height: 33px;
+    background: #ffffff;
+    border: 1px solid #2f2f2f;
+    box-sizing: border-box;
+    display: inline-block;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    text-align: center;
+
+    color: #2f2f2f;
+  }
+
+  .btnplanch {
+    display: none;
+  }
+
+  .param2plan .namerowcust {
+    width: 53%;
+  }
+}
+
+.titlecust {
+  text-decoration: underline;
+}
+
+.tableplan {
+  padding-bottom: 18px;
+}
+
+.priceplan span {
+  font-weight: 600;
+}
+
+.tabprice span {
+  font-weight: 600;
+}
+.itemproduct1 {
+  border-bottom: solid 1px #eeeeee !important;
+}
+
+.mobi .sectionCatalogList-items-prev-control__col.two {
+  margin: 20px 20px 20px 20px !important;
+}
+
+.plancol1,
+.plancol3 {
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+}
+
+.plancolall {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.planch2 {
+  display: none !important;
+}
+
+@media (min-width: 700px) {
+  @media (max-width: 1270px) {
+    .mobi {
+      display: none !important;
+    }
+    .planch2 {
+      display: block !important;
+    }
+  }
+}

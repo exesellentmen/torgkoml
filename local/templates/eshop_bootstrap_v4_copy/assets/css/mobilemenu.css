@@ -1,0 +1,269 @@
+	body{
+		overflow: overlay;
+		
+	}
+	
+	.banner-index .slick-dots{
+	    margin-top: 1rem !important;
+	}
+	
+	
+	.header-top-aut__link {
+		color: #fff !important;
+	}
+	
+	
+	
+	
+.panelmenu{
+	background-color: white;
+    width: 91%;
+    position: fixed;
+    z-index: 500;
+    height: 100%;
+	
+	padding: 51px 0px 1px 0px;
+	overflow: auto;
+}
+
+.drodownmenu{
+	
+}
+
+
+
+.drodownelement{
+	
+	
+}
+
+
+.drodownsection .drodownelement {
+	display: none;	
+}
+
+
+
+
+
+
+
+
+
+
+.headdrodown{
+	border-bottom: 1px solid rgba(97, 97, 97, 0.2);
+	/*padding: 11px 0px 11px 0px;*/
+	    padding: 18px 8px 18px 20px;
+}
+
+
+
+
+
+
+.testarrow:first-child:not(:only-of-type) {
+  background-image: url(/local/templates/assest/img/lnr-chevron-right.svg);
+  background-repeat: no-repeat;
+      background-position: right 8px center;
+    padding: 22px 25px 22px 20px;	
+	font-size: 1rem !important;
+font-weight: 600 !important;
+
+}
+
+
+
+.cellhead{
+	font-size: 0.875rem !important;
+	
+	
+}
+
+
+
+
+.drodownsection .drodownsection .testarrow:first-child:not(:only-of-type) {
+padding: 15px 8px 15px 20px !important;	
+}
+
+
+
+
+.drodownitem{
+	border-bottom: 1px solid rgba(97, 97, 97, 0.2);
+	padding: 22px 0px 22px 0px;	
+	
+}
+
+
+.drodownmenu .drodownsection .headdrodown.testarrow.activeheader{
+
+padding: 22px 20px 22px 70px !important;
+}
+
+.drodownsection > .drodownsection{
+	display:none;
+	
+}
+
+
+.activesection{
+	display: block !important;
+	
+}
+
+.noneactive{ 
+	display: none !important;
+	
+}
+
+.activeheader{
+    background-position: left 37px center !important;
+    padding: 18px 0px 18px 70px !important;
+    background-image: url(/local/templates/assest/img/lnr-chevron-left.svg) !important;
+	background-repeat: no-repeat;
+}
+
+
+
+/*
+.activesection .activeheader{
+
+background-position: left 27px center !important;
+}
+*/
+
+.allgoods{
+	border-bottom: 1px solid rgba(97, 97, 97, 0.2);
+    padding: 22px 8px 22px 70px;	
+	
+}
+
+.drodownitem{
+	display: none;
+	background-position: right 8px center;
+    padding: 22px 8px 22px 20px;
+	
+}
+
+
+
+.menufix{
+	height: 51px;
+    background-color: white;
+    width: 100%;
+    position: fixed;
+    z-index: 501;
+	border-bottom: 1px solid rgba(97, 97, 97, 0.2);
+	
+}
+
+.icomenufix{
+	background-repeat: no-repeat;
+    background-position: center;
+    vertical-align: middle;
+    display: inline-block;
+	height: 100%;
+	
+	
+}
+
+.burger .vertmiddle{ 
+	    font-size: 2.1rem !important;
+
+	
+}
+
+
+.logomenufix{
+	background-image: url(/local/templates/eshop_bootstrap_v4/assets/img/logo.png);
+	width: calc(48px + 5vw);
+    margin-left: 2.4%;
+	background-size: contain;
+}
+
+
+.menufix .search, .menufix .profile, .menufix .comparison, .menufix .like, .menufix .cart{
+	width: 17px;
+    margin-right: 5%;
+    float: right;	
+}
+
+
+/*
+.search{
+	background-image: url(/local/templates/assest/img/s5.png);	
+}
+.profile{
+	background-image: url(/local/templates/assest/img/s3.png);	
+}
+.comparison{
+	background-image: url(/local/templates/assest/img/s6.png);	
+}
+.like{
+	background-image: url(/local/templates/assest/img/s2.png);	
+}
+.cart{
+	background-image: url(/local/templates/assest/img/s4.png);
+	margin-right: 0% !important;	
+}
+*/
+
+
+.vertmiddle{
+	line-height: 50px;
+	font-size: 1.3rem;
+}
+
+
+
+.panelmenu{
+    font-weight: normal;
+}
+
+.menuactive{
+	display: block;
+	
+}
+.menudeactive{
+	display: none;
+	
+} 
+
+
+
+.drodownsection.testarrow.activesection > .drodownitem.activesection{
+    padding: 15px 8px 15px 20px !important;
+}
+
+
+
+.headdrodown.testarrow.activeheader{
+    font-size: 0.875rem !important;
+}
+
+
+
+.text2row{
+    text-overflow: ellipsis;
+    max-height: 34px;
+    overflow: hidden;
+
+}
+
+
+.text3row{
+    text-overflow: ellipsis;
+    max-height: 34px;
+    overflow: hidden;
+
+}
+
+
+body.nonescroll {
+   height: 100%;
+   width: 100%;
+   position: fixed;
+   overflow: hidden;
+}
